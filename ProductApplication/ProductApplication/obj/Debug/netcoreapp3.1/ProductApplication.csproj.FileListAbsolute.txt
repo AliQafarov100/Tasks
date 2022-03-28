@@ -1,0 +1,14 @@
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\bin\Debug\netcoreapp3.1\ProductApplication.exe
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\bin\Debug\netcoreapp3.1\ProductApplication.deps.json
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\bin\Debug\netcoreapp3.1\ProductApplication.runtimeconfig.json
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\bin\Debug\netcoreapp3.1\ProductApplication.runtimeconfig.dev.json
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\bin\Debug\netcoreapp3.1\ProductApplication.dll
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\bin\Debug\netcoreapp3.1\ProductApplication.pdb
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\obj\Debug\netcoreapp3.1\ProductApplication.csproj.AssemblyReference.cache
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\obj\Debug\netcoreapp3.1\ProductApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\obj\Debug\netcoreapp3.1\ProductApplication.AssemblyInfoInputs.cache
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\obj\Debug\netcoreapp3.1\ProductApplication.AssemblyInfo.cs
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\obj\Debug\netcoreapp3.1\ProductApplication.csproj.CoreCompileInputs.cache
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\obj\Debug\netcoreapp3.1\ProductApplication.dll
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\obj\Debug\netcoreapp3.1\ProductApplication.pdb
+C:\Users\M S I\source\repos\ProductApplication\ProductApplication\obj\Debug\netcoreapp3.1\ProductApplication.genruntimeconfig.cache
